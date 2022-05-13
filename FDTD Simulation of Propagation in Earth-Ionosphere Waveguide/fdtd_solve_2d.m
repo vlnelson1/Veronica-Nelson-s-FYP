@@ -14,8 +14,7 @@
 define_problem_space_parameters_2d;
 define_geometry_2d;
 define_sources_2d;
-define_ou
-tput_parameters_2d;
+define_output_parameters_2d;
 
 % initialize the problem space and parameters 
 initialize_fdtd_material_grid_2d;
